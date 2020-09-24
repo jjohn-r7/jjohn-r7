@@ -27,7 +27,7 @@ My interests include :
 - 🐎 🐎 Mustang rides ( i own a 2020 mustang)
 
 
-![LOL](./gif.gif)
+![LOL](./gif.gif) ![LOL](./mustang.gif)
 
 
 See my projects below  ⬇️⬇️⬇️ 
