@@ -1,7 +1,7 @@
 ### Hi there 👋👋👋👋
 
 
-Hey My Name is  😻😻😻 **Jijo John** 😻😻😻  a serial entrepreneur, pilot  🛩️🛩️🛩️🛩️ and a programmer ✨ living in London Ontario Canada 🇨🇦 for a long time. Originally i am from Kerala India 🇮🇳 ..
+Hey My Name is  😻😻😻 **Jijo John** 😻😻😻  a serial entrepreneur, pilot  🛩️🛩️🛩️🛩️ and a programmer ✨ . Originally from Kerala India 🇮🇳 , living in London Ontario Canada 🇨🇦 ..
 
 Currently i work for Rapid 7 as a software engineer (DAST) 🧑‍💻  where i code  cyber security projects 🛡️.  
 
