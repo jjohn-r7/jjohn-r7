@@ -10,7 +10,8 @@ I have another github located on [viralcode]: https://github.com/viralcode/
 Here are some things about me : 
 
 - Started my first startup when i was 14 with 3 friends. 🎎🎎🎎
-- Featured in indian business newspapers - [Hindu News Leading Indian News Website :https://www.thehindubusinessline.com/news/app-to-wash-your-facebook-profile-pic-in-party-colours/article8568843.ece
+- Featured in indian business newspaper 
+[Hindu]:https://www.thehindubusinessline.com/news/app-to-wash-your-facebook-profile-pic-in-party-colours/article8568843.ece
 - 🔭 Have 2 patents pending on developing techniques for crawling modern SPA  🧨🧨🧨🧨
 - 🌱 Currently working towards my commercial pilot license 🛩️🛩️🛩️🛩️
 - 👯 I developed the first malayalam facebook (Indian - Kerala native language) app which got 2m+ users ( Developed at late night , slept, wokeup  - went viral  🎇  🎇)
