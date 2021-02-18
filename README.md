@@ -26,7 +26,7 @@ My interests include :
 - ⌨️ ⌨️ Programming 
 - ✈️✈️  Fly Airplanes
 - 🙏🙏  Brainstorming 
-- 🐎 🐎 Mustang rides ( i own a 2020 mustang)
+- 🐎 🐎 Mustang rides
 
 
 ![LOL](./gif.gif) ![LOL](./mustang.gif)
