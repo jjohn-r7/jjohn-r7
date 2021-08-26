@@ -13,7 +13,7 @@ Here are some things about me :
 - I started ethical hacking at 16 years of age and  reported vulnerabilities to many major companies like HP, Tata etc .. 
 - Featured in indian business newspapers , blogs  
 [Hindu]:https://www.thehindubusinessline.com/news/app-to-wash-your-facebook-profile-pic-in-party-colours/article8568843.ece
-- 🔭 Have 2 patents pending on developing techniques for crawling modern SPA  🧨🧨🧨🧨
+- 🔭 Patent for developing techniques for crawling modern SPA ( 1 in pendng status)  🧨🧨🧨🧨
 - 🌱 Currently working towards my commercial pilot license 🛩️🛩️🛩️🛩️
 - 👯 I developed the first malayalam facebook (Indian - Kerala native language) app which got 2m+ users ( Developed at late night , slept, wokeup  - went viral  🎇  🎇)
 - 🤔 I believe that loving each other, spreading peace and kindness is important.
