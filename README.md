@@ -3,7 +3,7 @@
 
 Hey My Name is  😻😻😻 **Jijo John** 😻😻😻  a serial entrepreneur, pilot  🛩️🛩️🛩️🛩️ and a programmer ✨ . Originally from Kerala India 🇮🇳 , living in London Ontario Canada 🇨🇦 .. 
 
-Currently i work for Rapid 7 as a software engineer (DAST) 🧑‍💻  where i work on  cyber security projects 🛡️.  
+Currently i work for Rapid 7 as a software engineer (DAST) 🧑‍💻  where i work on building  cyber security software 🛡️.  
 
 I have another github located on [viralcode]: https://github.com/viralcode/
 
