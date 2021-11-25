@@ -25,7 +25,6 @@ My interests include :
 
 - ⌨️ ⌨️ Programming 
 - ✈️✈️  Fly Airplanes
-- 🙏🙏  Brainstorming 
 - 🐎 🐎 Mustang rides
 
 
