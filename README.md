@@ -3,9 +3,9 @@
 
 Hey My Name is  😻😻😻 **Jijo John** 😻😻😻  a serial entrepreneur, pilot  🛩️🛩️🛩️🛩️ and a programmer ✨ . Originally from Kerala India 🇮🇳 , living in London Ontario Canada 🇨🇦 .. 
 
-Currently i work for Rapid 7.
+I worked for Rapid 7 for 5 years or so.
 
-🔭 working on
+🔭 worked on projects like
 AppSpider DAST Scan Engine used by InsightAppSec,
 AppSpider Enterprise
 
